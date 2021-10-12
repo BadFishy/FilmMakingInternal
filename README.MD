@@ -2,11 +2,34 @@
 
 影片生成器内部版
 
-	"Version": 1,
-	"VersionName": "1.1",
-	"EngineVersion":"4.26",
-	"Date": "2021/9/30"
-	"DocsUpdate": "2021/9/30"
+---
+
+### 最新正式版本号
+
+	"Version": 2,
+	"VersionName": "1.1.a",
+	"EngineVersion":"4.26.0",
+	"Date": "2021/10/11",
+	"DocsUpdate": "2021/10/12",
+	"DocsURL": "https://github.com/BadFishy/FilmMakingInternalDoc",
+	"InternalSVNUrl": "https://server-2008/svn/Program-CreatEngine/Plugins/Release/FilmMakingInternal_Release_4.26"
+
+### 程序更新日志
+
+```
+- 2021/10/11
+	修复新建通用天气时的写入错误
+```
+
+### 文档更新日志
+
+```
+- 2021/10/12
+	新增程序更新日志和文档更新日志
+	更新版本号
+```
+
+---
 
 ## 入门
 
