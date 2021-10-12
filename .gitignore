@@ -1,7 +1,9 @@
+# Private
+FilmMakingInternal_Release_4.26/
+
 # Visual Studio 2015 user specific files
 .vs/
 .idea/
-FilmMakingInternal_Release_4.26/
 
 # Compiled Object files
 *.slo
