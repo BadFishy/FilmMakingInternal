@@ -177,7 +177,7 @@ ToyStory
 
 在我们刚刚创建的`Spawner`中点击右键`选择`其他 - 数据表格`
 
-找到`InputShotInfo，并`确定`，来创建，起名为`ISI_ToyStory`
+找到`InputShotInfo`，并`确定`，来创建，起名为`ISI_ToyStory`
 
 ![image-20210930171215088](README.assets/image-20210930171215088.png)
 
@@ -306,7 +306,7 @@ https://docs.qq.com/sheet/DWndMVlBXWlNxSWNy
 | ------------ | ---------------------- | -------- | ------------------------------------------------------------ |
 | 通用生成配置 | FilmEpisodeSpawnConfig | FESC     | 是用来配置本集影片多个镜头会用到的场景、天气、角色、道具，等资产的数据资产。 |
 | 剧集         | FilmEpisode            | FE       | 一个剧集即代表一集影片，剧集资产里储存了影片的一些基本参数（如帧率），并引用了本集影片中的所有镜头信息。 |
-|              | Actor                  |          |                                                              |
+|              |                        |          |                                                              |
 
 
 
