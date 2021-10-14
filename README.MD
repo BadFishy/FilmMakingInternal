@@ -290,7 +290,7 @@ https://docs.qq.com/sheet/DWndMVlBXWlNxSWNy
 
 ## 【使用规范】
 
-### 一、名词解释
+### 一、总览
 
 #### 资产架构图解
 
